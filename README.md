@@ -1,6 +1,8 @@
 # Prework Study Guide Webpage
 
-## Prework study guide that provides notes on the following topics. HTML, CSS, Git, and javascript. These notes are to help understand and retain all the topics learned in the prework assesments.
+## Description
+
+Prework study guide that provides notes on the following topics. HTML, CSS, Git, and javascript. These notes are to help understand and retain all the topics learned in the prework assesments.
 
 
 ## Installation
